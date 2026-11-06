@@ -19,6 +19,7 @@
 \source{Datos tomados por J. C. Vargas-Rojas como estudiante del curso de Fitogenética, Universidad de Costa Rica, 2009. Registro original: \code{trabajo_completo.xls}.}
 \examples{
 str(maiz_cultivares)
-tapply(maiz_cultivares$peso_mazorca_g, list(maiz_cultivares$cultivar, maiz_cultivares$nitrogeno), mean)
+grupos <- list(maiz_cultivares$cultivar, maiz_cultivares$nitrogeno)
+tapply(maiz_cultivares$peso_mazorca_g, grupos, mean)
 }
 \keyword{datasets}
