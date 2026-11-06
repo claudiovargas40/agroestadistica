@@ -1,0 +1,121 @@
+evaluacion,fecha,dias,bloque,tratamiento,maceta,severidad
+1,2010-11-17,2,1,Testigo,1,1
+1,2010-11-17,2,1,Testigo,2,3
+1,2010-11-17,2,1,Carbonato de calcio,1,1
+1,2010-11-17,2,1,Carbonato de calcio,2,2
+1,2010-11-17,2,1,Hidróxido de calcio,1,1
+1,2010-11-17,2,1,Hidróxido de calcio,2,1
+1,2010-11-17,2,1,Dolomita,1,1
+1,2010-11-17,2,1,Dolomita,2,2
+1,2010-11-17,2,2,Testigo,1,1
+1,2010-11-17,2,2,Testigo,2,3
+1,2010-11-17,2,2,Carbonato de calcio,1,1
+1,2010-11-17,2,2,Carbonato de calcio,2,2
+1,2010-11-17,2,2,Hidróxido de calcio,1,1
+1,2010-11-17,2,2,Hidróxido de calcio,2,3
+1,2010-11-17,2,2,Dolomita,1,1
+1,2010-11-17,2,2,Dolomita,2,1
+1,2010-11-17,2,3,Testigo,1,2
+1,2010-11-17,2,3,Testigo,2,2
+1,2010-11-17,2,3,Carbonato de calcio,1,1
+1,2010-11-17,2,3,Carbonato de calcio,2,1
+1,2010-11-17,2,3,Hidróxido de calcio,1,1
+1,2010-11-17,2,3,Hidróxido de calcio,2,1
+1,2010-11-17,2,3,Dolomita,1,1
+1,2010-11-17,2,3,Dolomita,2,1
+1,2010-11-17,2,4,Testigo,1,4
+1,2010-11-17,2,4,Testigo,2,3
+1,2010-11-17,2,4,Carbonato de calcio,1,2
+1,2010-11-17,2,4,Carbonato de calcio,2,4
+1,2010-11-17,2,4,Hidróxido de calcio,1,2
+1,2010-11-17,2,4,Hidróxido de calcio,2,1
+1,2010-11-17,2,4,Dolomita,1,1
+1,2010-11-17,2,4,Dolomita,2,1
+1,2010-11-17,2,5,Testigo,1,3
+1,2010-11-17,2,5,Testigo,2,4
+1,2010-11-17,2,5,Carbonato de calcio,1,1
+1,2010-11-17,2,5,Carbonato de calcio,2,1
+1,2010-11-17,2,5,Hidróxido de calcio,1,2
+1,2010-11-17,2,5,Hidróxido de calcio,2,1
+1,2010-11-17,2,5,Dolomita,1,1
+1,2010-11-17,2,5,Dolomita,2,1
+2,2010-11-18,3,1,Testigo,1,2
+2,2010-11-18,3,1,Testigo,2,5
+2,2010-11-18,3,1,Carbonato de calcio,1,1
+2,2010-11-18,3,1,Carbonato de calcio,2,2
+2,2010-11-18,3,1,Hidróxido de calcio,1,1
+2,2010-11-18,3,1,Hidróxido de calcio,2,1
+2,2010-11-18,3,1,Dolomita,1,1
+2,2010-11-18,3,1,Dolomita,2,2
+2,2010-11-18,3,2,Testigo,1,3
+2,2010-11-18,3,2,Testigo,2,3
+2,2010-11-18,3,2,Carbonato de calcio,1,1
+2,2010-11-18,3,2,Carbonato de calcio,2,3
+2,2010-11-18,3,2,Hidróxido de calcio,1,1
+2,2010-11-18,3,2,Hidróxido de calcio,2,5
+2,2010-11-18,3,2,Dolomita,1,1
+2,2010-11-18,3,2,Dolomita,2,1
+2,2010-11-18,3,3,Testigo,1,2
+2,2010-11-18,3,3,Testigo,2,2
+2,2010-11-18,3,3,Carbonato de calcio,1,2
+2,2010-11-18,3,3,Carbonato de calcio,2,1
+2,2010-11-18,3,3,Hidróxido de calcio,1,1
+2,2010-11-18,3,3,Hidróxido de calcio,2,1
+2,2010-11-18,3,3,Dolomita,1,1
+2,2010-11-18,3,3,Dolomita,2,1
+2,2010-11-18,3,4,Testigo,1,5
+2,2010-11-18,3,4,Testigo,2,3
+2,2010-11-18,3,4,Carbonato de calcio,1,2
+2,2010-11-18,3,4,Carbonato de calcio,2,5
+2,2010-11-18,3,4,Hidróxido de calcio,1,2
+2,2010-11-18,3,4,Hidróxido de calcio,2,2
+2,2010-11-18,3,4,Dolomita,1,2
+2,2010-11-18,3,4,Dolomita,2,2
+2,2010-11-18,3,5,Testigo,1,3
+2,2010-11-18,3,5,Testigo,2,4
+2,2010-11-18,3,5,Carbonato de calcio,1,1
+2,2010-11-18,3,5,Carbonato de calcio,2,1
+2,2010-11-18,3,5,Hidróxido de calcio,1,3
+2,2010-11-18,3,5,Hidróxido de calcio,2,1
+2,2010-11-18,3,5,Dolomita,1,1
+2,2010-11-18,3,5,Dolomita,2,1
+3,2010-11-22,7,1,Testigo,1,2
+3,2010-11-22,7,1,Testigo,2,5
+3,2010-11-22,7,1,Carbonato de calcio,1,2
+3,2010-11-22,7,1,Carbonato de calcio,2,2
+3,2010-11-22,7,1,Hidróxido de calcio,1,1
+3,2010-11-22,7,1,Hidróxido de calcio,2,1
+3,2010-11-22,7,1,Dolomita,1,1
+3,2010-11-22,7,1,Dolomita,2,2
+3,2010-11-22,7,2,Testigo,1,4
+3,2010-11-22,7,2,Testigo,2,4
+3,2010-11-22,7,2,Carbonato de calcio,1,2
+3,2010-11-22,7,2,Carbonato de calcio,2,3
+3,2010-11-22,7,2,Hidróxido de calcio,1,1
+3,2010-11-22,7,2,Hidróxido de calcio,2,5
+3,2010-11-22,7,2,Dolomita,1,1
+3,2010-11-22,7,2,Dolomita,2,1
+3,2010-11-22,7,3,Testigo,1,3
+3,2010-11-22,7,3,Testigo,2,4
+3,2010-11-22,7,3,Carbonato de calcio,1,2
+3,2010-11-22,7,3,Carbonato de calcio,2,2
+3,2010-11-22,7,3,Hidróxido de calcio,1,1
+3,2010-11-22,7,3,Hidróxido de calcio,2,1
+3,2010-11-22,7,3,Dolomita,1,2
+3,2010-11-22,7,3,Dolomita,2,1
+3,2010-11-22,7,4,Testigo,1,5
+3,2010-11-22,7,4,Testigo,2,3
+3,2010-11-22,7,4,Carbonato de calcio,1,3
+3,2010-11-22,7,4,Carbonato de calcio,2,5
+3,2010-11-22,7,4,Hidróxido de calcio,1,3
+3,2010-11-22,7,4,Hidróxido de calcio,2,3
+3,2010-11-22,7,4,Dolomita,1,2
+3,2010-11-22,7,4,Dolomita,2,2
+3,2010-11-22,7,5,Testigo,1,5
+3,2010-11-22,7,5,Testigo,2,5
+3,2010-11-22,7,5,Carbonato de calcio,1,1
+3,2010-11-22,7,5,Carbonato de calcio,2,2
+3,2010-11-22,7,5,Hidróxido de calcio,1,3
+3,2010-11-22,7,5,Hidróxido de calcio,2,2
+3,2010-11-22,7,5,Dolomita,1,1
+3,2010-11-22,7,5,Dolomita,2,1

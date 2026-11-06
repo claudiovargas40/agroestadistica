@@ -1,0 +1,12 @@
+tamano,limite_inferior_ha,limite_superior_ha,fincas,extension_ha
+Menos de 1,0,1.0,13683,6488.6
+1 a menos de 2,1,2.0,11356,14503.5
+2 a menos de 3,2,3.0,8673,19701.4
+3 a menos de 4,3,4.0,6089,19781.8
+4 a menos de 5,4,5.0,5556,23611.0
+5 a menos de 10,5,10.0,14453,98630.5
+10 a menos de 20,10,20.0,10755,145027.1
+20 a menos de 50,20,50.0,10034,306568.3
+50 a menos de 100,50,100.0,4774,324889.0
+100 a menos de 200,100,200.0,2383,316387.5
+200 y más,200,,2146,1128665.9
