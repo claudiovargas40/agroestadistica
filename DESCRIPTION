@@ -1,6 +1,6 @@
 Package: agroestadistica
 Type: Package
-Title: Datos del libro 'Estadística básica con R'
+Title: Datos del Libro "Estadística Básica con R"
 Version: 1.0.0
 Authors@R: c(
     person("Jorge Claudio", "Vargas-Rojas", role = c("aut", "cre"),
@@ -10,8 +10,8 @@ Authors@R: c(
 Description: Bases de datos agronómicas de ensayos y trabajos de graduación de
     la Universidad de Costa Rica en Guanacaste, de censos y encuestas del
     Instituto Nacional de Estadística y Censos y de los materiales de clase que
-    acompañan al libro 'Estadística básica con R: aplicaciones a sistemas
-    agrícolas tropicales'. Incluye las bases como marcos de datos y como
+    acompañan al libro "Estadística básica con R: aplicaciones a sistemas
+    agrícolas tropicales". Incluye las bases como marcos de datos y como
     archivos CSV para practicar la importación de datos, y una función para
     calcular la V de Cramér.
 License: CC BY 4.0
