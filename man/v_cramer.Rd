@@ -25,6 +25,10 @@ El cálculo usa el estadístico de chi cuadrado como medida descriptiva, por lo
 que no se muestran las advertencias de \code{chisq.test()} sobre frecuencias
 esperadas pequeñas.
 }
+\references{
+Cramér, H. (1946). \emph{Mathematical methods of statistics} (p. 282).
+Princeton University Press. ISBN 0-691-08004-6.
+}
 \examples{
 mildiu <- matrix(c(4, 12, 9, 7), nrow = 2, byrow = TRUE)
 v_cramer(mildiu)

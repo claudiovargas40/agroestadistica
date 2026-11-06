@@ -13,7 +13,7 @@ Description: Bases de datos agronómicas de ensayos y trabajos de graduación de
     acompañan al libro "Estadística básica con R: aplicaciones a sistemas
     agrícolas tropicales". Incluye las bases como marcos de datos y como
     archivos CSV para practicar la importación de datos, y una función para
-    calcular la V de Cramér.
+    calcular la V de Cramér, según Cramér (1946, ISBN:0-691-08004-6).
 License: CC BY 4.0
 Encoding: UTF-8
 Language: es

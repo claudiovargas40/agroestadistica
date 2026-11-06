@@ -11,3 +11,5 @@ Checked with GitHub Actions on macOS (R release), Windows (R release) and Ubuntu
 ## Comments
 
 The package is a data package that accompanies a Spanish-language statistics textbook for agronomy students. Its documentation is therefore written in Spanish (Language: es).
+
+Words such as "Cramér", "Guanacaste" or "agronómicas" that may be flagged as possibly misspelled are proper names or correct Spanish words.

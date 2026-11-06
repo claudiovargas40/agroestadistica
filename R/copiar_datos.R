@@ -10,7 +10,7 @@ ruta_datos <- function(base) {
 }
 
 #' Copia los archivos CSV del libro a una carpeta del proyecto
-copiar_datos <- function(destino = "datos") {
+copiar_datos <- function(destino) {
   origen <- system.file("extdata", package = "agroestadistica")
   dir.create(file.path(destino, "clases"), recursive = TRUE, showWarnings = FALSE)
   archivos <- list.files(origen, pattern = "\\.csv$", recursive = TRUE)

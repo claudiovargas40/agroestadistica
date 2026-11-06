@@ -10,11 +10,11 @@ carpeta del proyecto de RStudio, para practicar la importación de datos con
 de una base dentro del paquete.
 }
 \usage{
-copiar_datos(destino = "datos")
+copiar_datos(destino)
 ruta_datos(base)
 }
 \arguments{
-\item{destino}{Carpeta donde se copian los archivos; se crea si no existe.}
+\item{destino}{Carpeta donde se copian los archivos, por ejemplo, \code{"datos"}; se crea si no existe.}
 \item{base}{Nombre de la base, sin la extensión \code{.csv}.}
 }
 \value{

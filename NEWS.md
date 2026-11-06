@@ -8,6 +8,8 @@
 - En `cuba_om22`, las variables de biomasa indican si se trata de biomasa fresca o seca.
 - En `pepino_trichoderma`, las variables `diametro_distal1_mm` y `diametro_distal2_mm` se renombran `diametro_distal_mm` y `diametro_proximal_mm`, de acuerdo con la tesis de origen, en la que DD1 es el diámetro distal y DD2 el diámetro proximal.
 - Cada variable de las bases de los materiales de clase tiene ahora su propia descripción en la página de ayuda.
+- `copiar_datos()` ya no tiene una carpeta predeterminada; el usuario indica el destino, por ejemplo, `copiar_datos("datos")`.
+- La página de ayuda de `v_cramer()` y el campo Description citan a Cramér (1946), la referencia con base en la que se programó la función.
 - Los apellidos dobles de las personas autoras de los trabajos de graduación se escriben con guion.
 
 # agroestadistica 0.4.0

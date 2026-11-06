@@ -20,5 +20,5 @@ remotes::install_github("claudiovargas40/agroestadistica")
 ```r
 library(agroestadistica)
 ?camote_parcelas
-copiar_datos()   # copia los CSV a la carpeta datos/ del proyecto
+copiar_datos("datos")   # copia los CSV a la carpeta datos/ del proyecto
 ```
