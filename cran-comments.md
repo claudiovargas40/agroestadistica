@@ -1,17 +1,13 @@
-## Envío inicial (1.0.0)
+## Initial submission (1.0.0)
 
-Este es el primer envío del paquete a CRAN.
+This is the first submission of the package.
 
-## Resultados de R CMD check --as-cran
+## R CMD check --as-cran results
 
-0 errores | 0 advertencias | 0 notas
+0 errors | 0 warnings | 0 notes
 
-Revisado con GitHub Actions en:
+Checked with GitHub Actions on macOS (R release), Windows (R release) and Ubuntu (R devel, release and oldrel-1).
 
-* macOS (R release)
-* Windows (R release)
-* Ubuntu (R devel, release y oldrel-1)
+## Comments
 
-## Comentarios
-
-El paquete contiene datos y documentación en español (Language: es), porque acompaña a un libro de texto en español para estudiantes de agronomía.
+The package is a data package that accompanies a Spanish-language statistics textbook for agronomy students. Its documentation is therefore written in Spanish (Language: es).
