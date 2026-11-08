@@ -45,3 +45,8 @@ jobs:
           upload-snapshots: true
           build_args: 'c("--compact-vignettes=gs+qpdf")'
           args: 'c("--as-cran")'
+      - name: Mostrar el registro de LaTeX si falla el manual
+        if: failure()
+        shell: bash
+        run: |
+          find check -name "Rdlatex.log" -exec tail -n 60 {} \; || true
