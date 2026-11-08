@@ -9,7 +9,7 @@
 \describe{
   \item{\code{muestra}}{Número de la muestra.}
   \item{\code{relacion_cn}}{Relación carbono:nitrógeno del residuo.}
-  \item{\code{amoniaco}}{Amoníaco volatilizado, en mg de N-NH₃ por kilogramo de materia seca.}
+  \item{\code{amoniaco}}{Amoníaco volatilizado, en mg de \eqn{\mathrm{N\textrm{-}NH_3}}{N-NH3} por kilogramo de materia seca.}
 }}
 \source{Datos simulados para el libro; el ejercicio se basa en materiales de clase de J. C. Vargas-Rojas, Universidad de Costa Rica.}
 \examples{
