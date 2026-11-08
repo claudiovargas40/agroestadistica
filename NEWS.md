@@ -10,6 +10,7 @@
 - Cada variable de las bases de los materiales de clase tiene ahora su propia descripción en la página de ayuda.
 - `copiar_datos()` ya no tiene una carpeta predeterminada; el usuario indica el destino, por ejemplo, `copiar_datos("datos")`.
 - La página de ayuda de `v_cramer()` y el campo Description citan a Cramér (1946), la referencia con base en la que se programó la función.
+- En la ayuda de `amoniaco_cn`, el subíndice de NH3 se escribe como ecuación, para que el manual en PDF se genere sin errores.
 - Los apellidos dobles de las personas autoras de los trabajos de graduación se escriben con guion.
 
 # agroestadistica 0.4.0
